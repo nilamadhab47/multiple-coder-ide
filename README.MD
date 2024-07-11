@@ -16,6 +16,8 @@
 > The problem was in CodeMirrorEditor, the onChangeCode sets to the default starting code - not the updated code.
 - ~~Names that are too long messes up sidebar CSS~~
 > Solved with Tailwind's truncate property
+- Compiler not working as intended
+- mutiple websockets getting terminated
 
 - Pressing more than 1 key simultaneously glitches out the code editor ⚠⚠⚠
 
